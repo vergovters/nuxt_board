@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       ital: [300],
      }
     }
-}],
+}], 'nuxt-icon'
   ],
   shadcn: {
     /**
