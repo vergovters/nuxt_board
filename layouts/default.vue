@@ -14,5 +14,6 @@
     .grid{
         display: grid;
         grid-template-columns: 1fr 4fr;
+        background-color: #0f172a;
     }
 </style>
